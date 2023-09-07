@@ -1,2 +1,3 @@
 # apnaclass-demo
-This is my first git Repository class
+This is my first git Repository class.
+author - durgesh
